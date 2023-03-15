@@ -11,6 +11,11 @@ We are concerened with 3 algorithms:
   * Report Noisy Max
   * Sparse Vector Method
   * Histogram
+  
+Research Papers:
+  * _[Detecting Violations of Differential Privacy](https://arxiv.org/abs/1805.10277)_
+  * _[Differential Privacy: A Survey of Results](https://link.springer.com/chapter/10.1007/978-3-540-79228-4_1)_
+  * _[Differential Privacy and Machine Learning: A Survey and Review](https://arxiv.org/pdf/1412.7584.pdf?source=post_page---------------------------)_
 
 For more information about our findings, please visit our slides here 
 [Project Slide Deck](https://docs.google.com/presentation/d/1XbKV2ph05kceU0qGW0UEU9zfl4x__w6X/edit?usp=sharing&ouid=110762060930354783887&rtpof=true&sd=true).
