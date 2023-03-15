@@ -11,3 +11,6 @@ We are concerened with 3 algorithms:
   * Report Noisy Max
   * Sparse Vector Method
   * Histogram
+
+For more information about our findings, please visit our slides here 
+[Project Slide Deck](https://docs.google.com/presentation/d/1XbKV2ph05kceU0qGW0UEU9zfl4x__w6X/edit?usp=sharing&ouid=110762060930354783887&rtpof=true&sd=true).
