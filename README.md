@@ -1,7 +1,7 @@
 # final-project-in-the-cloud
 ## Finding Solutions in Differential Privacy
 
-#### Anchita Bora, Nicole Carter, Hridya Antony 
+#### Anchita Bora and Nicole Carter
 
 Our project focuses on 3 solutions for differential privacy and the the consequences of using users’ personal data. In the research papers that we’ve found, we have seen the implementation of different algorithms to combat the main problem of endangering the personal data of users when their information is being used to calculate statistics for big companies.
 
