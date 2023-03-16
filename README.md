@@ -9,7 +9,6 @@ Differential privacy is a mathematical technique that adds a certain level of ra
 
 We are concerened with 3 algorithms: 
   * Report Noisy Max
-  * Sparse Vector Method
   * Histogram
   
 Research Papers:
