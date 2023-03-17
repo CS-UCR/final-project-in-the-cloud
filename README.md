@@ -7,7 +7,7 @@ Our project focuses on two solutions for differential privacy and the the conseq
 
 Differential privacy is a mathematical technique that adds a certain level of randomness to a dataset to prevent anyone from getting information from a dataset. This allows the final dataset to be accurate enough to garner insights into the individuals in data analysis while protecting the privacy of the individuals’ data.
 
-We are concerened with 3 algorithms: 
+We are concerened with two algorithms: 
   * Report Noisy Max
   * Histogram
   
